@@ -3,7 +3,7 @@
 ## Option 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git
 ```
 
 Replace the example repository URL with the actual public GitHub URL.
