@@ -14,7 +14,7 @@ Run these commands from the root of your PHP project:
 
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .agents/skills/custom-php-mysql-development
 ```
 
@@ -22,7 +22,7 @@ git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
 
 ```bash
 mkdir -p ~/.agents/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   ~/.agents/skills/custom-php-mysql-development
 ```
 
@@ -46,7 +46,7 @@ From the root of your project:
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .claude/skills/custom-php-mysql-development
 ```
 
@@ -54,7 +54,7 @@ git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   ~/.claude/skills/custom-php-mysql-development
 ```
 
@@ -80,7 +80,7 @@ From the root of your project:
 
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .agents/skills/custom-php-mysql-development
 ```
 
@@ -88,7 +88,7 @@ Alternatively, install under `.cursor/skills/`:
 
 ```bash
 mkdir -p .cursor/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .cursor/skills/custom-php-mysql-development
 ```
 
@@ -110,7 +110,7 @@ From the root of your project:
 
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .agents/skills/custom-php-mysql-development
 ```
 
@@ -118,7 +118,7 @@ Alternative:
 
 ```bash
 mkdir -p .gemini/skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .gemini/skills/custom-php-mysql-development
 ```
 
@@ -144,7 +144,7 @@ For example, clone the skill into:
 
 ```bash
 mkdir -p .ai-skills
-git clone https://github.com/YOUR-USERNAME/custom-php-mysql-development.git \
+git clone https://github.com/sanjaybhowmick/php-mysql-ai-skill.git \
   .ai-skills/custom-php-mysql-development
 ```
 
