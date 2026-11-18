@@ -103,7 +103,7 @@ Create one simple example module to demonstrate:
 
 ## Installation and release
 
-Document required PHP version/extensions, database creation, configuration, migrations, storage permissions, initial administrator creation, SMTP setup, scheduled jobs, HTTPS, backups, and deployment checks. Disable or remove installation utilities after setup.
+Document the exact PHP version and required extensions, database server/version, and exact frontend/library versions used. Follow `technology-versions.md` when selecting versions. Also document database creation, configuration, migrations, storage permissions, initial administrator creation, SMTP setup, scheduled jobs, HTTPS, backups, and deployment checks. Disable or remove installation utilities after setup.
 
 ## Quality checklist
 

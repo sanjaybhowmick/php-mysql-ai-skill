@@ -2,7 +2,7 @@
 
 ## General
 
-- Target PHP 8.x and avoid deprecated functions and syntax.
+- Target the PHP version declared in the project. For new projects, use the PHP 8.x default and version-selection policy in `technology-versions.md`. Avoid deprecated functions and syntax, and do not use syntax newer than the project runtime supports.
 - Use procedural PHP by default.
 - Use clear, descriptive variable and function names.
 - Use `snake_case` for functions and variables unless an existing project convention differs.

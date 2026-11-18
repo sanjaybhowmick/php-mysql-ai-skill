@@ -2,7 +2,7 @@
 
 ## Framework and layout
 
-Use Bootstrap 5 by default. A typical admin interface may include a top header, persistent desktop sidebar, mobile offcanvas navigation, and a clear content area. Reuse common layout components.
+Use Bootstrap 5.x by default. Follow the exact release already pinned by the project; consult `technology-versions.md` before selecting or upgrading versions. A typical admin interface may include a top header, persistent desktop sidebar, mobile offcanvas navigation, and a clear content area. Reuse common layout components.
 
 ## Visual style
 

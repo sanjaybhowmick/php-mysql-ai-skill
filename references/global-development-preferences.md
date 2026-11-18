@@ -1,14 +1,15 @@
 # Global Development Preferences
 
-These are defaults for projects using this skill. A project's explicit requirements may override them.
+These are defaults for projects using this skill. A project's explicit requirements and actual installed environment may override them. See `technology-versions.md` for the central version policy; do not maintain competing exact version numbers in this file.
 
 ## Technology and architecture
 
-- PHP 8.x, MySQL, MySQLi.
+- PHP 8.x, MySQL, and MySQLi.
 - Procedural PHP by default; avoid introducing a framework or object-oriented architecture without a reason.
-- Bootstrap 5 for the interface.
+- Bootstrap 5.x for the interface.
 - jQuery is acceptable for non-tabular interactions.
 - Font Awesome and PHPMailer may be used where appropriate.
+- Consult `technology-versions.md` before selecting exact releases or upgrading dependencies.
 - Prefer local, version-pinned assets over CDN dependencies.
 - Keep third-party dependencies minimal and document their versions and licences.
 
@@ -40,7 +41,7 @@ Always use server-side validation, output-context encoding, CSRF protection, aut
 
 ## User interface
 
-- Use Bootstrap 5 unless the project specifies otherwise.
+- Use Bootstrap 5.x unless the project specifies otherwise. Follow the project's pinned release and consult `technology-versions.md` before selecting or upgrading a version.
 - Keep the interface minimal, clean, professional, responsive, and consistent.
 - No gradients, flashy AI-style buttons, excessive shadows, or unnecessary animation.
 - Use centrally managed branding and CSS variables.

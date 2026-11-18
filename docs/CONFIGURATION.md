@@ -37,3 +37,7 @@ List required libraries, pinned versions, licences, and local paths in your proj
 ## Project-specific instructions
 
 Keep project-specific business requirements in the project repository, not in the generic skill. The skill defines development conventions; project documentation defines what the application must do.
+
+## Technology versions
+
+Use [`references/technology-versions.md`](../references/technology-versions.md) as the single source of truth for default technology families, exact-version selection, compatibility checks, and upgrade policy. Record exact versions for each application in that project's own dependency files and documentation. Do not change the skill defaults to match a one-off client project.
